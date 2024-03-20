@@ -2,4 +2,4 @@
 
 this is my first repo 
 <br>
-author - aman singh
+author - aman singh rathour
